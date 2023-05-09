@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Inioluwa Ajibade</h1>
-<h3 align="center">a passionate self-taught frontend engineer developer and a software engineer from Lagos, Nigeria. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.i take great care in the experience, architecture, and code quality of the things I build. I have been on the journey of learning and using technological tools to build software products single handedly and I am keen on creating agile business solutions and improving mobile and web-user experience.</h3>
+<h3 align="center"> I'm David Inioluwa Ajibade a passionate self-taught frontend engineer developer and a software engineer from Lagos, Nigeria. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.i take great care in the experience, architecture, and code quality of the things I build. I have been on the journey of learning and using technological tools to build software products single handedly and I am keen on creating agile business solutions and improving mobile and web-user experience.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inioluwadavid" alt="inioluwadavid" /></a> </p>
 
